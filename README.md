@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ravi Dinejad</h1>
-<h3 align="center">Jika kamu cari yang sempurna aku mundur, jika kamu cari mie ayam aku nitip</h3>
+
 
 <div align="center">
 
-
-<img src="https://github.com/user-attachments/assets/254aee07-ce22-4f19-bee3-88901e61d421" width="300px">
- <img src="https://github.com/ravidinejad/ravidinejad/assets/125472137/c7d63a06-e64e-4fd4-ba15-bd65bb829e3d" width="300px">
 </div>
-
+https://media1.tenor.com/m/pLhhw8tQib0AAAAd/killua-hunter-x-hunter.gif
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravidinejad&label=Profile%20views&color=0e75b6&style=flat" alt="ravidinejad" 
-
 
 </p>
 
