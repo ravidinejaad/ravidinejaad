@@ -2,9 +2,9 @@
 
 
 <div align="center">
+![killua-hunter-x-hunter](https://github.com/user-attachments/assets/a9cc39ab-1e17-4698-a4a5-ded9879517dd)
 
 </div>
-https://media1.tenor.com/m/pLhhw8tQib0AAAAd/killua-hunter-x-hunter.gif
 
 <p align="center">
 
