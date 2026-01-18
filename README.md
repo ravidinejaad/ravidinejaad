@@ -7,10 +7,6 @@
 
 </div>
 
-<p align="center">
-
-</p>
-
 <h2 align="center">Connect with me:</h2>
 <div align="center">
 <p align="center">
